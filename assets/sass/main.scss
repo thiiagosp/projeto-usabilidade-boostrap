@@ -1,0 +1,8 @@
+//teste p/ testar compi
+.main {
+     padding: 10px; 
+     &>.main-inner {
+          color: #fff;
+          background: #ccc;
+     }
+}
