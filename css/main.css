@@ -1,3 +1,10 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Roboto', serif;
+}
+p {
+  font-family: 'Open-Sans', serif;
+}
 .main > .main-inner {
   color: #fff;
-  background: #ccc; }
+  background: #ccc;
+}
